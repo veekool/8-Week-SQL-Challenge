@@ -320,7 +320,6 @@ GROUP BY 1
 </details>
 
 
-
 ### BONUS QUESTION -> Question 11: Join all the things
 ##### The following questions are related creating basic data tables that Danny and his team can use to quickly derive insights without needing to join the underlying tables using SQL.
 ##### Recreate the following table output using the available data:
