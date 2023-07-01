@@ -91,7 +91,7 @@ GROUP BY customer_id
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/6573f2c2-d040-4cd4-b1f2-6e0b1caa49c2)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/330c4921-ec12-490e-afd1-38c8751e0f72)
 
 </details>
 
@@ -109,7 +109,7 @@ ORDER BY 1
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/c95e51ef-7b1a-4394-9c36-0e3bfa0bd5d6)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/31c00dcd-ce24-4583-8483-cb4733a0b665)
 
 </details>
 
@@ -133,7 +133,7 @@ WHERE customer_rank = 1
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/a3d4964a-6f8a-4a81-9b7b-f9c00155b51a)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/a503e48f-9eb8-41b1-a36e-0633030fcfcb)
 
 </details>
 
@@ -153,7 +153,7 @@ LIMIT 1
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/02d15f17-21fe-49f4-b7b2-71a63fa9f028)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/cd1fc8aa-afb4-43a1-a4de-ad8efdd8878d)
 
 </details>
 
@@ -177,7 +177,7 @@ WHERE rank_ = 1
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/ac50cefa-61b0-4084-a507-0d1fa8891cb4)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/6817bb45-97d1-49c9-bcc5-d45d2fad32d5)
 
 </details>
 
@@ -202,7 +202,7 @@ WHERE rank_ = 1
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/62b7ccd2-4f20-45b2-9be6-ed61281d6baf)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/92680e98-934e-4c87-91b3-c87aeb7c11bf)
 
 </details>
 
@@ -227,7 +227,7 @@ WHERE rank_ = 1
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/ca740525-33fe-49cc-a897-38d862aea364)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/8cfc97eb-b490-43b1-8196-8505881e6f46)
 
 </details>
 
@@ -254,7 +254,7 @@ ORDER BY 1
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/919a7f9d-23c7-4e53-9f40-adc3244e7453)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/f0e39464-2ed8-4241-a14b-1c12a71b1913)
 
 </details>
 
@@ -283,7 +283,7 @@ GROUP BY customer_id;
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/b77b74a5-1b43-4573-9144-d6c29135ae67)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/e0f6ac1e-f486-4e0d-8e1e-ba6e0519bf36)
 
 </details>
 
@@ -315,7 +315,7 @@ GROUP BY 1
 
 <details><summary>Output:</summary>
 
-  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/e4728e08-029f-4b3d-86ef-8ce9f0ae1e77)
+  ![image](https://github.com/veekool/8-Week-SQL-Challenge/assets/114795923/946b7f93-65bd-4f9c-9702-0e2321a5bf1f)
 
 </details>
 
